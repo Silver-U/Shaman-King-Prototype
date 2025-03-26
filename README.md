@@ -97,3 +97,4 @@ If you know how another graphics format works, or how to use the CLI of another 
      - [Toon Boom Harmony](https://www.toonboom.com/products/harmony)
      - [PyxelEdit](https://pyxeledit.com)
      - and others
+"# Shaman-King-Prototype" 
