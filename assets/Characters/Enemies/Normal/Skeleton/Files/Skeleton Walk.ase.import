@@ -1,0 +1,14 @@
+[remap]
+
+importer="aseprite_wizard.plugin.noop"
+type="PackedDataContainer"
+uid="uid://blxwavi4yixn6"
+path="res://.godot/imported/Skeleton Walk.ase-19a3fbf2ddf445f06115ae7d817cf01b.res"
+
+[deps]
+
+source_file="res://assets/Characters/Enemies/Normal/Skeleton/Files/Skeleton Walk.ase"
+dest_files=["res://.godot/imported/Skeleton Walk.ase-19a3fbf2ddf445f06115ae7d817cf01b.res"]
+
+[params]
+
